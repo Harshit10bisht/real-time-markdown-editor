@@ -16,7 +16,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You will have to open two terminals in your code editor, one for front-end and one for back-end server.
 Front-end will run on [http://localhost:3000](http://localhost:3000).
+
+For running front-end : **npm start**
+
 Back-end will run on [http://localhost:3001](http://localhost:3001).
+
+For running back-end : **npm start**
+
 In the project directory, you can run:
 
 ### `npm start`
